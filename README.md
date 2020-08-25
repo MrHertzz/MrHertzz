@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**MrHertzz/MrHertzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <img src="URL">
 
 ⚡Hello I'm Melih. I'm a Electric&Electronics Engineer. 
@@ -16,4 +13,4 @@ I like x86 Architectures. I love Retro's
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 -  Fun fact: ...
--->
+
