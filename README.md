@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left"><b>Language:</b> C, C++, Python, Bash, <be><b>Chips:</b> STMicroelectronics MCUs, Nordic Semiconductor MCUs, Espressif MCUs<be><b>IDEs:</b> Stm32Cube, Eclipse, VScode, Platform.IO, Arduino, Thonny, Mbed<br><b>Tools:</b> THT and SMD Soldering, Logic Analyzer, Oscilloscope, Power Supply</p>
+<p align="left"><b>•Language:</b> C, C++, Python, Bash, <br><b>•Chips:</b> STMicroelectronics MCUs, Nordic Semiconductor MCUs, Espressif MCUs<br><b>•IDEs:</b> Stm32Cube, Eclipse, VScode, Platform.IO, Arduino, Thonny, Mbed<br><b>•Tools:</b> THT and SMD Soldering, Logic Analyzer, Oscilloscope, Power Supply</p>
 
 ###
 
