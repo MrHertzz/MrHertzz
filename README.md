@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">Language: C, C++, Python, Bash, <br>Chips: STM32 Series, PIC, ATmel, nRF, Espressif<br>IDEs: Stm32Cube, Eclipse, VScode, Platform.IO, Arduino, <br>VCS: Git, GitHub<br>Tools: THT and SMD Soldering, Logic Analyzer, Oscilloscope, Power Supply,</p>
+<p align="left"><b>Language:</b> C, C++, Python, Bash, <be><b>Chips:</b> STMicroelectronics MCUs, Nordic Semiconductor MCUs, Espressif MCUs<be><b>IDEs:</b> Stm32Cube, Eclipse, VScode, Platform.IO, Arduino, Thonny, Mbed<br><b>Tools:</b> THT and SMD Soldering, Logic Analyzer, Oscilloscope, Power Supply</p>
 
 ###
 
@@ -117,14 +117,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="20" alt="vim logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="20" alt="vscode logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=2&username=@melihstark" alt="Layout with last medium posts"  />
 </div>
 
 ###
