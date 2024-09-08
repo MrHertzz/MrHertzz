@@ -1,8 +1,10 @@
-<h1 align="left">Embedded Systems Engineer | Philanthropist | INTJ</h1>
+<h2 align="left">Embedded Systems Engineer | Philanthropist | INTJ</h2>
 
 ###
 
-<div align="left">
+<br clear="both">
+
+<div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
@@ -17,13 +19,11 @@
 
 ###
 
-<br clear="both">
-
-<img align="left" height="200" src="https://media1.tenor.com/m/lUax-CJ3QVoAAAAC/anime-aestethic.gif"  />
+<img align="right" height="250" src="https://media1.tenor.com/m/lUax-CJ3QVoAAAAC/anime-aestethic.gif"  />
 
 ###
 
-<h2 align="left">Professional Skills</h2>
+<h3 align="left">Professional Skills</h3>
 
 ###
 
@@ -124,17 +124,7 @@
 <br clear="both">
 
 <div align="center">
-  <a href="https://open.spotify.com/user/mrtoody">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=mrtoody&count=2" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=2&username=@melihstark&theme=dark" alt="Layout with last medium posts"  />
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=2&username=@melihstark" alt="Layout with last medium posts"  />
 </div>
 
 ###
