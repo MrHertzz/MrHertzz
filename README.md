@@ -21,7 +21,7 @@
     <img src="https://logowik.com/content/uploads/images/buy-me-a-coffee6984.jpg" width="52" height="40" alt="bmac logo"  />
   </a>
   <a href="https://www.skool.com/@melihstark" target="_blank">
-    <img src="https://seeklogo.com/images/S/skool-logo-9DCF3E49B3-seeklogo.com.png" width="52" height="40" alt="skool logo"  />
+    <img src="https://seeklogo.com/images/S/skool-logo-9DCF3E49B3-seeklogo.com.png" width="72" height="40" alt="skool logo"  />
   </a>
 </div>
 
